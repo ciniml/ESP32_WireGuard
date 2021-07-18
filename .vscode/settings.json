@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "err.h": "c",
+        "sys.h": "c",
+        "netif.h": "c",
+        "opt.h": "c"
+    }
+}
